@@ -15,7 +15,7 @@ This is my internship task to fetch and display user data from a public REST API
 ![Screenshot](./assets/screenshot.png)
 
 ## 🚀 Live Link
-[Click here to view](https://madhankumar1701.github.io/Task-7-FetchAPI/)
+[Click here to view](https://madhankumar1701.github.io/FetchAPI/)
 
 ## 🧠 Concepts Used
 - Fetch API
